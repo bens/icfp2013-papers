@@ -197,58 +197,58 @@ List of accepted papers is available [here](http://www.haskell.org/haskell-sympo
 
 - Adding Structure to Monoids    
   ([paper](https://github.com/blamario/monoid-subclasses/wiki/Files/HaskellSymposium2013.pdf)),  
-  by Mario Blažević.
+  by Mario Blažević
 
 - Causality of optimized Haskell: What is burning our cycles?    
   ([paper](http://eprints.whiterose.ac.uk/76448/7/Paper_with_coversheet.pdf)),  
-  by Peter Wortmann and David Duke.
+  by Peter Wortmann and David Duke
 
 - Data Flow Fusion with Series Expressions in Haskell    
   ([paper](http://www.cse.unsw.edu.au/~chak/papers/flow-fusion.pdf))
   ([webpage](http://www.cse.unsw.edu.au/~chak/papers/BCKR13.html)),    
-  by Ben Lippmeier, Manuel Chakravarty, Gabriele Keller and Amos Robinson.
+  by Ben Lippmeier, Manuel Chakravarty, Gabriele Keller and Amos Robinson
 
 - An EDSL approach to High Performance Haskell programming    
   ([paper](https://github.com/josefs/meta-paper/blob/master/paper.md)),    
-  by Johan Ankner and Josef Svenningsson.
+  by Johan Ankner and Josef Svenningsson
 
 - Extensible Effects: An Alternative to Monad Transformers    
   ([paper](http://www.cs.indiana.edu/~sabry/papers/exteff.pdf)),    
-  by Oleg Kiselyov, Amr Sabry and Cameron Swords.
+  by Oleg Kiselyov, Amr Sabry and Cameron Swords
 
 - Hasochism: The Pleasure and Pain of Dependently Typed Haskell Programming    
   ([paper](https://personal.cis.strath.ac.uk/conor.mcbride/pub/hasochism.pdf)),    
-  by Sam Lindley and Conor McBride.
+  by Sam Lindley and Conor McBride
 
 - The Intel Labs Haskell Research Compiler    
   ([paper](http://www.leafpetersen.com/leaf/publications/hs2013/hrc-paper.pdf))
   ([webpage](http://www.leafpetersen.com/leaf/publications.htm)),    
-  by Hai Liu, Neal Glew, Leaf Petersen and Todd Anderson.
+  by Hai Liu, Neal Glew, Leaf Petersen and Todd Anderson
 
 - Maintaining Verified Software    
   ([paper](http://www.gilith.com/research/papers/haskell.pdf))
   ([slides](http://www.gilith.com/research/talks/haskell2013.pdf)),    
-  by Joe Leslie-Hurd.
+  by Joe Leslie-Hurd
 
 - Mio: A High-Performance Multicore IO Manager for GHC    
   ([paper](http://haskell.cs.yale.edu/wp-content/uploads/2013/08/hask035-voellmy.pdf))
   ([code](https://github.com/AndreasVoellmy/Threadscope-mio)),    
-  by Andreas Voellmy, Junchang Wang, Paul Hudak and Kazuhiko Yamamoto.
+  by Andreas Voellmy, Junchang Wang, Paul Hudak and Kazuhiko Yamamoto
 
 - Names For Free — Polymorphic Views of Names and Binders    
   ([paper](http://www.cse.chalmers.se/~bernardy/NamesForFree.pdf)),    
-  by Jean-Philippe Bernardy and Nicolas Pouillard.
+  by Jean-Philippe Bernardy and Nicolas Pouillard
 
 - Splittable Pseudorandom Number Generators using Cryptographic Hashing    
   ([paper](http://publications.lib.chalmers.se/records/fulltext/183348/local_183348.pdf)),    
-  by Koen Claessen and Michał Pałka.
+  by Koen Claessen and Michał Pałka
 
 - Monadic Functional Reactive Programming    
   ([paper](http://homepages.cwi.nl/~ploeg/papers/monfrp.pdf))
   ([code](https://github.com/cwi-swat/symmetric-frp)),    
-  by Atze van der Ploeg.
+  by Atze van der Ploeg
 
 - Understanding Idiomatic Traversals Backwards and Forwards    
   ([paper](http://www.iai.uni-bonn.de/~jv/uitbaf.pdf)),    
   by Richard Bird, Jeremy Gibbons, Stefan Mehner, Tom Schrijvers and Janis
-  Voigtländer.
+  Voigtländer
