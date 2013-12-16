@@ -18,7 +18,7 @@ The list of accepted papers was published [here](http://icfpconference.org/icfp2
   by Robert Atkey and Conor McBride
 
 - Using Circular Programs for Higher-Order Syntax [Functional Pearl]   
-  ([paper](http://www.cse.chalmers.se/~emax/documents/axelsson2013using_DRAFT.pdf)),  
+  ([paper](http://www.cse.chalmers.se/~emax/documents/axelsson2013using.pdf)),  
   by Emil Axelsson and Koen Claessen
 
 - Weak Optimality, and the Meaning of Sharing   
@@ -95,10 +95,9 @@ The list of accepted papers was published [here](http://icfpconference.org/icfp2
 
 - Functional Reactive Programming with Liveness Guarantees   
   ([paper](http://ect.bell-labs.com/who/ajeffrey/papers/icfp13.pdf)),  
-   by Alan Jeffrey
+  by Alan Jeffrey
 
 - Optimizing Abstract Abstract Machines   
-  ([paper](http://arxiv.org/pdf/1211.3722.pdf))
   ([arxiv](http://arxiv.org/abs/1211.3722))
   ([implementation and updated paper](https://github.com/dvanhorn/oaam)),  
   by J. Ian Johnson, Nicholas Labich, Matthew Might and David Van Horn
@@ -209,7 +208,7 @@ List of accepted papers is available [here](http://www.haskell.org/haskell-sympo
   by Ben Lippmeier, Manuel Chakravarty, Gabriele Keller and Amos Robinson
 
 - An EDSL approach to High Performance Haskell programming    
-  ([paper](https://github.com/josefs/meta-paper/blob/master/paper.md)),    
+  ([paper](http://www.cse.chalmers.se/~josefs/publications/haskell2013.pdf)),    
   by Johan Ankner and Josef Svenningsson
 
 - Extensible Effects: An Alternative to Monad Transformers    
