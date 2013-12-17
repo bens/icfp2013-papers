@@ -251,3 +251,117 @@ List of accepted papers is available [here](http://www.haskell.org/haskell-sympo
   ([paper](http://www.iai.uni-bonn.de/~jv/uitbaf.pdf)),    
   by Richard Bird, Jeremy Gibbons, Stefan Mehner, Tom Schrijvers and Janis
   Voigtländer
+
+### FPCDSL-2013
+
+- Bluespec and Haskell  
+  ([abstract](http://quantum.bbn.com/FPCDSL/test/abstracts/#bluespec)),  
+  by Arvind
+
+- Sensitivity Analysis using Type-Based Constraints  
+  ([paper](http://harbormist.com/proxy1/SyncHandler.ashx/www.cis.upenn.edu.sync/~lorisdan/papers/fpcdsl2013.pdf))
+  ([abstract](http://quantum.bbn.com/FPCDSL/test/abstracts/#paper6)),  
+  by Emilio Jesús Gallego Arias
+
+- Encoding Secure Information Flow with Restricted Delegation and Revocation in Haskell  
+  ([paper](https://www.cs.indiana.edu/~sabry/papers/rdr.pdf))
+  ([abstract](http://quantum.bbn.com/FPCDSL/test/abstracts/#paper2)),  
+  by Doaa Salem
+
+- QuaFL: A Typed DSL for Quantum Programming  
+  ([paper](http://cs-people.bu.edu/lapets/resource/quafl-lang.pdf))
+  ([abstract](http://quantum.bbn.com/FPCDSL/test/abstracts/#paper3)),  
+  by Andrei Lapets
+
+- Embrace, Defend, Extend: A Methodology for Embedding Preexisting DSLs. Case in Point, StreamHs : StreamIt in Haskell  
+  ([paper](http://www.cs.indiana.edu/~rrnewton/papers/2013-FPCDSL_StreamItHS_draft.pdf))
+  ([abstract](http://quantum.bbn.com/FPCDSL/test/abstracts/#paper4)),  
+  by Abhishek Kulkarni
+
+- Abstract Resource Cost Derivation for Logical Quantum Circuit Descriptions  
+  ([abstract](http://quantum.bbn.com/FPCDSL/test/abstracts/#paper5)),  
+  by Andrei Lapets
+
+- Functional Synthesis of Genetic Regulatory Networks  
+  ([abstract](http://quantum.bbn.com/FPCDSL/test/abstracts/#paper1)),  
+  by Jacob Beal
+
+### HIW-2013
+
+- GeneralizedNewtypeDeriving is now type-safe: How "Roles" save the day  
+  by Richard A. Eisenberg
+
+- Resource Limits for Haskell  
+  ([paper](https://ezyang.com/papers/ezyang13-rlimits.pdf)),  
+  by [Edward Z. Yang](http://ezyang.com/)
+
+- SpecConstr: optimising purely functional loops  
+  ([slides](http://code.ouroborus.net/fp-syd/past/2013/2013-05-Robinson-SpecConstr.pdf)),  
+  by Amos Robinson
+
+- Prototyping GHC Optimizations with HERMIT  
+  ([html slides](http://www.ittc.ku.edu/~afarmer/hiw-13.html)),  
+  by [Andrew Farmer](http://andrewfarmer.name)
+  and Andy Gill
+
+- Optimizing "Scrap Your Boilerplate" with HERMIT  
+  ([slides](http://fsl.cs.illinois.edu/images/6/69/2013-PLF-syb-opt-talk.pdf)),  
+  by Michael D. Adams, Andrew Farmer and José Pedro Magalhães
+
+- Inhabiting Habit: An Introduction to the Habit Compiler  
+  ([abstract](http://www.haskell.org/haskellwiki/HaskellImplementorsWorkshop/2013/Jones)),  
+  by Mark Jones
+
+- Run-time supported Haskell Serialisation - an API  
+  ([slides](http://www.haskell.org/wikiupload/2/28/HIW2013PackingAPI.pdf))  
+  by Jost Berthold
+
+- Using HTM to speed up STM  
+  Ryan Yates
+
+- Smten: Orchestrating SMT in Haskell  
+  ([site](http://www.cl.cam.ac.uk/research/security/ctsrd/smten.html))
+  ([github](https://github.com/ruhler/smten)),  
+  by Richard Uhler
+
+- Hackage 2  
+  by Duncan Coutts
+
+- Haskell-to-hardware via CCCs  
+  ([blog](http://conal.net/blog/posts/haskell-to-hardware-via-cccs)),  
+  by Conal Elliott
+
+### LFMTP-2013
+
+- Foundational Proof Certificates: Making proof universal and permanent  
+  ([abstract](http://www.lix.polytechnique.fr/~dale/papers/lfmtp13.pdf)),  
+  by Dale Miller
+
+- A bisimulation between DPLL(T) and a proof-search strategy for the focused sequent calculus  
+  ([paper](http://www.lix.polytechnique.fr/~lengrand/Work/Reports/DPLL-LK.pdf)),  
+  by Mahfuza Farooque, Stéphane Graham-Lengrand and Assia Mahboubi
+
+- 25 Years of Formal Proof Cultures - some problems, some philosophy, bright future  
+  ([paper](http://hal.inria.fr/docs/00/90/68/07/PDF/20th-YY-LF.pdf)),  
+  by Furio Honsell
+
+- Towards Extracting Explicit Proofs from Totality Checking in Twelf  
+  ([arxiv](http://arxiv.org/abs/1307.1738)),  
+  by Yuting Wang and Gopalan Nadathur
+
+- Structural Logical Relations with Case Analysis and Equality Reasoning  
+  ([paper](http://utr.dk/pubs/files/rasmussen2013a-0-paper.pdf)),  
+  by Ulrik Terp Rasmussen and Andrzej Olaf Filinski
+
+- First-class substitutions in contextual type theory  
+  ([paper](http://www.cs.mcgill.ca/~bpientka/papers/lfmtp13.pdf)),  
+  by Andrew Cave and Brigitte Pientka
+
+- Explicit Convertibility Proofs in Pure Type Systems  
+  ([paper](http://dspace.library.uu.nl/bitstream/handle/1874/279600/thesis.pdf?sequence=2))
+  ([webpage](http://dspace.library.uu.nl/handle/1874/279600)),  
+  by Floris van Doorn, Herman Geuvers and Freek Wiedijk
+
+- Relating Focused Proofs with Different Polarity Assignments  
+  ([paper](http://www.nigam.info/docs/LFMTP13.pdf)),  
+  by Vivek Nigam and Elaine Pimentel
