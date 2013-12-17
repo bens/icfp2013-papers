@@ -5,7 +5,7 @@ The list of accepted papers was published [here](http://icfpconference.org/icfp2
 
 (See [here](https://github.com/technogeeky/icfp12-paper-links) for a similar page for ICFP'12)
 
-## ICFP
+## ICFP-2013
 
 - Wellfounded Recursion with Copatterns: A Unified Approach to Termination and Productivity   
   ([paper](http://www.cs.mcgill.ca/~bpientka/papers/icfp13.pdf))
@@ -190,7 +190,7 @@ The list of accepted papers was published [here](http://icfpconference.org/icfp2
   ([webpage](http://www.mpi-sws.org/~beta/mtac/)),  
   by Beta Ziliani, Derek Dreyer, Neelakantan Krishnaswami, Aleksandar Nanevski and Viktor Vafeiadis
 
-## Haskell Symposium
+### Haskell-Symposium-2013
 
 List of accepted papers is available [here](http://www.haskell.org/haskell-symposium/2013/).
 
