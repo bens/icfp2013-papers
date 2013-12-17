@@ -77,7 +77,8 @@ The list of accepted papers was published [here](http://icfpconference.org/icfp2
   by Joshua Dunfield and Neelakantan R. Krishnaswami
 
 - Calculating Threesomes, with Blame   
-  (no preprint found),  
+  (no preprint found)
+  ([related work](http://www.researchgate.net/publication/213876712_Threesomes_with_and_without_blame/file/32bfe513df48944546.pdf)),  
   by Ronald Garcia
 
 - Structural Recursion for Querying Ordered Graphs   
